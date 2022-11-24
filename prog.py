@@ -1,1 +1,1 @@
-print("prepare  so well")
+print("study well")
